@@ -11,4 +11,4 @@ This is a solution to the [3-column preview card component challenge on Frontend
 ## Author
 
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)
-- Live Site URL: [3 - Column Preview Card]() 🌐
+- Live Site URL: [3 - Column Preview Card](https://ferlaxi.github.io/3ColumnPreviewCardbyFer/) 🌐
